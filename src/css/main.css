@@ -99,6 +99,10 @@
     width: 80%;
   }
 }
+@media (max-width: 300px){
+  .fcc_searchBar .ais-Hits {
+    width: 70%;
+  }
 
 /* NavBar */
 
