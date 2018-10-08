@@ -74,4 +74,7 @@ which would end up looking like:
 
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 * [HTML lists on w3schools](https://www.w3schools.com/html/html_lists.asp)
+* [HTML Ordered List Element on MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/ol)
+* [HTML Unordered List Element on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+* [HTML <li> on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
 
