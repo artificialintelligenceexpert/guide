@@ -3,7 +3,7 @@ title: Strings
 ---
 # Strings
 
-Strings are sequences of characters. In Java, a `String` is an `Object`. Strings should not be confused with `char` as characters are literally 1 value rather than a sequence of characters. You can still use 1 value within a String, however it is preferred to use `char` when you are checking for 1 character.
+Strings are sequences of characters. In Java, a `String` is an `Object`. Strings should not be confused with `char` as characters are literally 1 value rather than a sequence of characters. You can still use 1 value within a String, however it is preferred to use `char` when you are checking for 1 character. Single quotes '' are used for `char` and double quotes "" are used for Strings. 
 
 ```java
 String course = "FCC";
@@ -74,7 +74,7 @@ The first comparison is false because "==" looks at the references and they aren
 
 The second comparison is true because the variables store the same values. In this case "Hello world".
 
-We have several inbuilt methods in String. The following is an example of the String Length() method .
+We have several inbuilt methods in String. The following is an example of the String length() method .
 
 ```java
 public class StringDemo {
